@@ -1,0 +1,8 @@
+.row {
+  display: grid;
+  grid: 100px / auto auto;
+}
+.col {
+  border: 1px solid black;
+  margin: 10px;
+}
